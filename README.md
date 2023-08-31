@@ -19,7 +19,12 @@ Christopher "Chris" Zavala is a Software Developer who is currently studying [Co
 - High Quality Git Version control 
 - High Quality, Clean, and Commented Code
 - Agile Development
-- 
+- High Quality Git Commit Messaging
+- Prompt, Clear, and Concise communication
+
+Currently he is also working on large semester loong projects that focus Databases, Web-App Develpment (full stack), and a specific app that focuses on scanning online forums for unauthorized course material uploads using NLP and Web-Scraping.
 ## Contact Info
+**Email**: czavala2@ncsu.edu
+## <center> Table of Contents
 
 </main>
