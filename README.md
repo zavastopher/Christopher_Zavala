@@ -1,14 +1,3 @@
-<style>
-    main { background-color: #0A0903; padding: 15px; width: 100%; border-radius: 10px; color: white}
-    h1 { color: #D7FCD4;}
-    h2 { color: #F6AF65;}
-    a {
-        color: #6E7271;
-    }
-    a:hover {
-        color: white;
-    }
-</style>
 <main>
 
 # <center>Christopher_Zavala
