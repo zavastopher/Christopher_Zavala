@@ -5,7 +5,7 @@
 It is now the beginning of the second half of the 2023 fall semester and my graduation is on the horizon. My projects have been going well and I have been keeping my head above water. This semester is a heavy workload meant to allow for my graduation in december but that also means that I have had little to no time to update this repo and most of my projects that I am working on are not quite at the state that I can confidently push them to this repository, so in their stead this update will serve as a log of my progress so far.
 
 - Senior design:
-    - I am currently taking the senior design course at NCSU. I was assigned to a group working on a project involving CRUD, User Account Management, Web Scraping, Client-Server project implementation, and task brockering.
+    - I am currently taking the senior design course at NCSU. I was assigned to a group working on a project involving CRUD, User Account Management, Web Scraping, Client-Server project implementation, and task brokering.
 - Web-Development:
     - I am also taking a web-development class focusing on client-server computing. I have developed several smaller projects used to demonstrate basic web-development skills such as HTML, CSS, DOM object manipulation in JS, Node-JS, API implementation, Client side and Server side rendering, Docker deployment, Session cookie management, and much more. I am also working on a semester long group project focusing on implementing all of these skills.
 - Databases:
