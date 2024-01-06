@@ -1,4 +1,4 @@
-## About the Project 
+# About the Project 
 
 This project is meant to be a PWA platform for users to practice their BlackJack without the use of real money. Scores are kept with users starting out with 1000 points each. There is a leader board which updates when a users "Rank" changes as they lose or gain points while playing.
 
