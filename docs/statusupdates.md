@@ -1,4 +1,8 @@
-# <p align='center'> Current Status </p>
+# <p align='center'> Status Updates </p>
+
+## 01-2024
+
+First off, HAPPY NEW YEAR. I am looking forward to this year and getting to explore my interests in computer science on my own. Particularly I look forward to joining a professional team and working on learning Game development on my own. This includes following some tutorials for Godot and joining a game jam during January. I hope to produce some projects that I am proud of. I am also applying to various companies to see if I can join their teams and start my professional career in computer science outside of academia. I am currently working on updating my portfolio to include projects from school that I am allowed to share in my portfolio.
 
 ## 10-2023
 
@@ -14,8 +18,6 @@ It is now the beginning of the second half of the 2023 fall semester and my grad
     - This course has been focused mainly on the theory behind Social-Computing and Decentralized AI. Learning about how agents interact, how contracts can be violated w/ out technically violating them, and how to properly motivate user agents without violating concepts such as autonomy.
 - Computer Music Compisition:
     - And finally we get to a course that has been great for making me consider new ways of thinking and widening my perspective. This course has taught me how to combine one of my biggest hobbies and the field I have dedicated myself to. Learning about the history of algorithmic compisition and synthesis. I am now also embarking on a journey to produce my own piece using said techniques. As of right now I am looking into simulating a simple rouguelike dungeon game in python and using the output to compose a piece using midi.
-
-# Timeline
 
 ## 08-2023
 I created this repository to host my portfolio projects in order to keep track of and demonstrate my skills as a developer. I am fully aware I should have done this earlier and excuses do not fix that issue, that being said here are some of the reasons I have for not doing so earlier in order to reassure some doubts as to why a senior in a CSC program took so long to set up a personal portfolio.

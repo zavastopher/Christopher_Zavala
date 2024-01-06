@@ -1,0 +1,65 @@
+nav {
+  color: white;
+}
+
+.container-fluid {
+  color: white;
+}
+
+.username-label {
+  margin: 0px;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link.active {
+  color: white!important;
+  text-decoration: underline;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+
+form[role="search"] {
+  flex-grow: 2;
+  max-width: 650px;
+}
+
+.card-title, .card-body {
+  padding: 5px;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.query-filter {
+  border-right-color: black;
+}
+
+li {
+  cursor: pointer;
+}
+
+li > span > a {
+  text-decoration: none;
+  color: black;
+}
+
+#dropdown-menu {
+  cursor: pointer;
+}
+
+.fa-star {
+  color: gold;   /* You can use any color you prefer */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a subtle shadow */
+  transition: transform 0.2s ease-in-out; /* Add a smooth transition effect */
+}
+
+.reviews {
+  background-color: lightcyan;
+}
