@@ -16,6 +16,6 @@ The project was build using Docker containers for the different parts of the pro
 
 This folder contains wireframes that my team designed for the application that as a deliverable for the teaching staff to judge and make suggestions for our proposal.
 
-# My Personal Contributions
+# My Personal Contributions (Chris Zavala)
 
 I personally worked on every aspect of the project from beginning to end. I focused on implementing the frontend pages and integrating mobile first design using bulma components for designing the project. I also initiated the API routes and debugged them when it came time to connect the frontend to the API routes. I also updated the service worker and manifest for the installability and offline functionality of the application. The game was largely developed by another team member but I was incharge of creating all the endpoints that the game would use to retrieve and update the user point values.
