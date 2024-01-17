@@ -28,3 +28,4 @@ Game Development projects, and other misc. programming projects.
 
 [My Second Game in Godot with a Focus on designing my own levels: Frog Game](https://github.com/zavastopher/GodotSecondGame)
 
+[World Building Wiki for a personal TTRPG setting I have been running campaigns in since 2019](https://www.legendkeeper.com/app/ckd0j1ygiueo907902zz2vi8m)
