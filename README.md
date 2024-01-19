@@ -13,8 +13,8 @@ Christopher "Chris" Zavala is a Software Developer who has recieved his bachelor
 
 ## Purpose of this repo
 
-This repo is meant to serve as a portfolio to store projects that demonstrate my skills. This includes projects I completed in school and in my personal time. These projects include Fullstack projects, 
-Game Development projects, and other misc. programming projects.
+This repo is meant to serve as a portfolio to store projects that demonstrate my skills. This includes projects I completed in school and in my personal time. These projects include Fullstack projects, Game Development projects, and other misc. programming projects.
+It will be continously updated as Projects get completed.
 
 ## Contact Info
 
